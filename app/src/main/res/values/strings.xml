@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentAndroid</string>
+    <string name="tittle_toolbar">Fragment Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tl_satu">Tab Layout 1</string>
+    <string name="tl_dua">Tab Layout 2</string>
+    <string name="tl_tiga">Tab Layout 3</string>
+</resources>
